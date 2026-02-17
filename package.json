@@ -26,6 +26,8 @@
     "leva": "^0.10.1",
     "lodash-es": "^4.17.23",
     "lucide-react": "^0.564.0",
+    "mobx": "^6.15.0",
+    "mobx-state-tree": "^7.0.2",
     "motion": "^12.34.0",
     "prettier": "^3.8.1",
     "react": "^19.2.0",
